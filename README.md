@@ -1,0 +1,1 @@
+# Trained_model_for_Labeling_Landcover_via_satellite_image
